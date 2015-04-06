@@ -1,0 +1,43 @@
+h1 {font-family: sans-serif; text-align: center; }
+
+h2 {font-family: sans-serif; text-align: center; }
+
+#tulip {padding: 5px; height: 25%; width: 25%; }
+
+#dahlia {padding: 5px; height: 25%; width: 25%; }
+
+section.section1
+{
+background-color: #FFFFCC;
+visibility: hidden;
+position: absolute;
+padding: 10px;
+padding-bottom: 80px;
+width: 600px;
+overflow: auto;
+}
+
+section.section2
+{
+background-color:#DCDCDC;
+visibility: hidden;
+position: absolute;
+padding: 10px;
+padding-bottom: 80px;
+width: 600px;
+overflow: auto;
+}
+
+
+footer
+{
+font-style: italic;
+text-align: center;
+color: #FFFFFF;
+background-color: #000000;
+position: fixed;
+bottom: 0;
+left: 0;
+height: 80px;
+width: 100%;
+}
